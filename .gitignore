@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python caches and artifacts
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/

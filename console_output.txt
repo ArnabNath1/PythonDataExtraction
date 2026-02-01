@@ -1,0 +1,33 @@
+Starting Nike Scraper...
+Navigating to https://www.nike.com/ph/w...
+Scrolling to trigger network activity...
+Captured Wall API: https://api.nike.com/discover/product_wall/v1/marketplace/PH/language/en-GB/consumerChannelId/d9a5bc42-4b9c-4976-858a-f159cf99c647?path=/ph/w&queryType=PRODUCTS&anchor=24&count=24
+Starting pagination...
+Fetching products 0 to 24...
+Fetching products 24 to 48...
+...
+Total products fetched: 6216
+Fetching ratings and reviews...
+Products with Tagging: 3291
+Valid products (No Tagging + Discounted): 1586
+Saved nike_products.csv
+
+Top 10 Most Expensive Products (Discounted & No Tagging):
+                            
+        Product_Name  Product_Price
+                            
+           Nike Tech        18396.0
+                            
+               NOCTA        16796.0
+     Nike Mercurial Superfly 10 Elite 'Sam Kerr'        12877.0
+                         Nike Alphafly 3 Premium        12396.0
+Nike Mercurial Superfly 10 Elite x Air Max 95 SE        12317.0
+                            
+     Nike Alphafly 3        11596.0
+              Nike ACG Zoom Gaiadome GORE-TEX SE        11336.0
+                            
+     Nike Vaporfly 4        11196.0
+                            
+     Air Jordan 14 G        11066.0
+                        Nike Phantom 6 Low Elite        10987.0
+Saved top_20_rating_review.csv with 20 records.

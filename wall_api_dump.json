@@ -1,0 +1,9 @@
+{
+  "error_id": "50d97d6e-da06-4754-8135-335644904c76",
+  "errors": [
+    {
+      "code": "NIKE_API_CALLER_ID_HEADER_NOT_PRESENT",
+      "message": "Request header nike-api-caller-id must be present"
+    }
+  ]
+}
